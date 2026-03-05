@@ -1,10 +1,11 @@
+```bash
 /project-name
 │
 ├─ /src         # Source code
 ├─ /assets      # Images, GUI screenshots
 ├─ /docs        # Optional: diagrams or detailed docs
 └─ README.md    # Main project documentation
-
+```
 # 2D Battleships & Mini-Games
 MATLAB Game Development with CLI and AI Opponents
 
