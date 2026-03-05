@@ -1,11 +1,3 @@
-```bash
-/project-name
-│
-├─ /src         # Source code
-├─ /assets      # Images, GUI screenshots
-├─ /docs        # Optional: diagrams or detailed docs
-└─ README.md    # Main project documentation
-```
 # 2D Battleships & Mini-Games
 MATLAB Game Development with CLI and AI Opponents
 
@@ -29,5 +21,3 @@ The games feature an interactive GUI, player vs AI gameplay, and scoring systems
    git clone https://github.com/yourusername/2D-Battleships-MATLAB.git](https://github.com/Sadid-Rahman/2D-Battleships-Mini-Games---Matlab-Project-.git
 2. Open MATLAB and navigate to the project folder
 3. Run the main script: main.m
-
-
